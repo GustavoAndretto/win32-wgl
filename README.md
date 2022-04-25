@@ -11,8 +11,6 @@ Example: Draw Triangle
 #include <GL/glext.h>
 #include <GL/wglext.h>
 
-#include <chrono>
-
 class MyWindow : public Window
 {
 public:
